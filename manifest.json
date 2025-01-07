@@ -1,0 +1,12 @@
+{
+    "manifest-version": "1.0",
+    "name": "Workbook Notification Extension",
+    "description": "Notifies user about created workbooks and their locations.",
+    "homepage-url": "https://10ax.online.tableau.com",
+    "extension-version": "1.0",
+    "company": "Your Company",
+    "author": "Your Name",
+    "targets": ["dashboard"],
+    "scripts": ["script.js"]
+  }
+  
